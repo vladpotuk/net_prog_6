@@ -1,4 +1,5 @@
-﻿<Window x:Class="net_prog_6.MainWindow"
+﻿<!-- MainWindow.xaml -->
+<Window x:Class="net_prog_6.Server.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="UDP Server" Height="300" Width="400">
